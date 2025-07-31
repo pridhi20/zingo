@@ -1,12 +1,25 @@
-# React + Vite
+# 🍽️ Zingo - Food Delivery Web App (Frontend Only)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Zingo is a frontend food delivery application built using React.js. It simulates the user experience of popular food ordering platforms, allowing users to browse food items, add them to cart, and manage orders — all within a clean and responsive UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🛒 **Add to Cart** – Users can select items and manage quantities.
+- 🔁 **Dynamic Routing** – Navigate between Home, Menu, Cart, and other pages using React Router.
+- 🧠 **Global State Management** – Cart state handled via Context API.
+- 📱 **Responsive Design** – Works across desktop and mobile screens.
+- 🎨 **Component-Based UI** – Reusable, modular React components.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js
+- **Routing:** React Router DOM
+- **State Management:** useState, useEffect, Context API
+- **Styling:** CSS
+- **Deployment:** (Add your deployment platform – e.g., Netlify, Vercel)
+
+
